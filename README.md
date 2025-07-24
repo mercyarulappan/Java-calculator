@@ -3,7 +3,8 @@
 This is a simple calculator project written in Java. It allows the user to choose between two types of calculators:
 
 1. **Interactive Calculator** – where the user inputs numbers and operations step-by-step.
-2. **Expression-Based Calculator** – (Coming soon...)
+2. Expression-Based Calculator – supports operations like "3 + 5 - 2 * 4"
+
 
 ## Features
 
